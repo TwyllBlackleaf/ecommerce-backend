@@ -18,7 +18,10 @@ A functional back end for a future e-commerce site.
 - Seed the database using `npm run seed`.
 - Start the server using `npm start`.
 
-For further detail, see the how-to video at this link: <>
+For further detail, see the how-to videos: 
+
+- Part 1: <https://drive.google.com/file/d/15VNhOju3xLhOdPgs7Wd2JLUsTd1Oh9c2/view>
+- Part 2: <https://drive.google.com/file/d/17EoRvOcSygDiRVCRBkeHi-EklcwqKge0/view>
 
 ## About the Author
 
